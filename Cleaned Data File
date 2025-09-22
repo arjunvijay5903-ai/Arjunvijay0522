@@ -1,0 +1,9 @@
+Customer_id,Name,Gender,Purchase_amount,email,Country,Date_joined,Age
+C001,Alice,Female,1200,alice@example.com,United States,1/5/2020,29
+C002,Bob,Male,1200,bob@example.com,United States,5/2/2020,34
+C003,Charlie,Male,,charlie@example.com,United States,3/1/2020,29
+C004,Diana,Female,500.5,diana@example.com,India,4/13/2020,27
+C004,Diana,Female,500.5,diana@example.com,India,5/6/2020,27
+C006,Frank,Male,300,frank@example.com,United Kingdom,6/1/2020,44
+C007,Grace,Other,-50,grace@example.com,,7/1/2020,22
+C008,Heidi,Female,1000,heidi@example.com,India,8/1/2020,150
